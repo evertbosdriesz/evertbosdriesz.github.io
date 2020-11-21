@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Assistant professor @ VU Amsterdam"
   location         : "Amsterdam, NL"
-  employer         : "Vrije Universiteit Amsterdam"
+  employer         : # "Vrije Universiteit Amsterdam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"
   googlescholar    : "https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/evert-bosdriesz-217b2a28/"
   orcid            : "https://orcid.org/0000-0002-8788-9548"
   pinterest        :
   soundcloud       :
