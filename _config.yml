@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Evert Bosdriesz"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Amsterdam"
+  avatar           : "profile.jpeg"
+  bio              : "Assistant professor @ VU Amsterdam"
+  location         : "Amsterdam, NL"
   employer         : "Vrije Universiteit Amsterdam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"
   googlescholar    : "https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"
