@@ -8,13 +8,17 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a compulsory course in the Bioinformatics track of the [Bioinformatics and Systems Biology Master](https://vuweb.vu.nl/en/education/master/bioinformatics-and-systems-biology) from the VU and UvA.
 
-Heading 1
+
+Spring 2021
 ======
 
-Heading 2
+  * [Study guide](https://studiegids.vu.nl/nl/2020-2021/courses/X_405092)
+  #* [Canvas pages]()
+
+Spring 2020
 ======
 
-Heading 3
-======
+  * [Study guide](https://studiegids.vu.nl/nl/2019-2020/courses/X_405092)
+  * [Canvas pages](https://canvas.vu.nl/courses/46400). Note tha you need to be enrolled to see this page.
