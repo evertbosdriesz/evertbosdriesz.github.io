@@ -5,18 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
+Mentees’ names underlined. Asterisk indicates dual first-author position.
+**Articles provided for personal use only.**
+
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YRWfuEIAAAAJ&hl=en&oi=sra">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
-{% assign current_year = "" %}
 {% for post in site.publications reversed %}
-  {% assign year = post.date | date: "%Y" %}
-  {% if current_year != year %}
-    {% assign current_year = year %}
-    {% include archive-subheader.html %}
-  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
