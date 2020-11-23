@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Evert Bosdriesz"
   avatar           : "profile.jpeg"
-  bio              : "Assistant professor @ VU Amsterdam"
+  bio              : "I'm an assistant professor in Bioinformatics at the VU Amsterdam. I work on computational methods to understand signal transduction networks, mainly in cancer."
   location         : "Amsterdam, NL"
   employer         : # "Vrije Universiteit Amsterdam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"
