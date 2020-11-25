@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Evert, an Assistant professor in Bioinformatics 
+I'm an Assistant professor in Bioinformatics 
  in the [Computer Science](https://www.cs.vu.nl/) department at the Vrije Universiteit Amsterdam. I'm also a guest researcher at the [Netherlands Cancer Institute](https://www.nki.nl/).
 
 I obtained my MSc in theoretical physics at the UvA, but evolved into a computational biologist. I did my PhD in the [Systems Biology group](http://teusinkbruggemanlab.nl/) of Bas Teusink and Frank Bruggeman, after which I did a postdoc in the [Computational Cancer Biology](https://ccb.nki.nl/) group of Lodewyk Wessels at the Netherlands Cancer Institute.
