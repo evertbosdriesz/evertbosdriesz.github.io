@@ -2,13 +2,12 @@
 # layout: archive
 title: "Publications"
 permalink: /publications/
-# author_profile: true
+author_profile: true
 ---
-## Publications
 
  A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). # indicates equal contribution.
 
-### Key
+## Key
 
 J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157. doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.<br>
 *Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.*
@@ -31,7 +30,7 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:<br>
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
-### All
+## All
 
 J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
 
@@ -59,7 +58,7 @@ Z. Xue, D.J. Vis, A. Bruna, T. Šuštić, S. Van Wageningen, A. Sati Batra, O.M.
 
 **E. Bosdriesz**<sup>#</sup>, M.T. Wortel<sup>#</sup>, J.R. Haanstra, M.J. Wagner, P. de la Torre Cortés, and B. Teusink, ‘Low Affinity Uniporter Carrier Proteins Can Increase Net Substrate Uptake Rate by Reducing Efflux’, *Scientific Reports*, *8*:5576. doi:[10.1038/s41598-018-23528-7](https://doi.org/10.1038/s41598-018-23528-7), 2018.
 
-sM.T. Wortel<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, B. Teusink, and F.J. Bruggeman.
+M.T. Wortel<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, B. Teusink, and F.J. Bruggeman.
 ‘Evolutionary Pressures on Microbial Metabolic Strategies in the Chemostat’.
 *Scientific Reports*, *6*:29503. doi:[10.1038/srep29503](https://doi.org/10.1038/srep29503), 2016.
 
