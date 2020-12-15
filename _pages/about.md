@@ -17,4 +17,4 @@ My lab focusses on computational approaches to understand signal transduction ne
 
 ## Hiring!
 
-In collaboration with the Wessels lab, we are looking for a PhD candidate to develop computational approaches for multiplexed single-cell phospho-protein quantification. You can find the vacancy [here](https://workingat.vu.nl/ad/phd-position-in-computational-single-cell-cancer-biology/8zyfar)
+Together with the [Wessels lab](https://ccb.nki.nl/) , we are looking for a PhD candidate to develop computational approaches for multiplexed single-cell phospho-protein quantification. You can find the vacancy [here](https://workingat.vu.nl/ad/phd-position-in-computational-single-cell-cancer-biology/8zyfar)
