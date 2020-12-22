@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
- A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). # indicates equal contribution.
+ A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). 
+ 
+\# indicates equal contribution.
 
 ## Key
 
 **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
-*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*
+*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
 J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157. doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2020.<br>
