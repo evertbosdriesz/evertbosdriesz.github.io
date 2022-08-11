@@ -11,7 +11,7 @@ author_profile: true
 
 ## Key
 
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
 *Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
@@ -36,13 +36,13 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:<br>
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
-## Pre-prints
-
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.
 
 ## Peer-reviewed articles
 
-J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.
+
+
+J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11* (1): 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
 
 T. Sustic, **E. Bosdriesz**, S. van Wageningen, L.F.A. Wessels and R. Bernards, 'RUNX2/CBFB modulates the response to MEK inhibitors through activation of receptor tyrosine kinases in *KRAS*-mutant colorectal cancer', *Translational Oncology*, *13*(2):201-211.
 doi:[10.1016/j.tranon.2019.10.006](https://doi.org/10.1016/j.tranon.2019.10.006), 2020.
