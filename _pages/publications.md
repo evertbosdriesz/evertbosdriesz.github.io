@@ -11,6 +11,12 @@ author_profile: true
 
 ## Key
 
+
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.<br>
+*Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
+<i class="fab fa-github"></i> <a href="https://github.com/ibivu/scmra"> Code </a> -
+<a href="https://github.com/tstohn/scmra_analysis"> Notebooks </a>
+
 **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
 *Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
@@ -22,13 +28,13 @@ J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Oof
 *Method to reconstruct and compare signaling networks based on perturbation data using Mixed Integer Quadratic programming.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/NKI-CCB/cnr"> Code </a> -
 <a href="https://github.com/NKI-CCB/CNR-analyses"> Notebooks </a>
-
+<!-- 
 A. Ressa<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, J. de Ligt, S. Mainardi, G. Maddalo, A. Prahallad, M. Jager, L. de la Fonteijne, M. Fitzpatrick, S. Groten, A.F.M. Altelaar, R. Bernards, E. Cuppen, L.F.A Wessels and J.R. Heck,
 ‘A System-Wide Approach to Monitor Responses to Synergistic BRAF and EGFR Inhibition in Colorectal Cancer Cells’,
 *Molecular & Cellular Proteomics*, *17*(10):1892-1908.
 doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<br>
 *Transcriptomic, proteomic and phosphoproteomic, time-course analysis of cancer cells in response to targeted inhibitors*:<br>
-<a href="https://bitbucket.org/evertbosdriesz/cgc-multi-omics/src/master/"><i class="fab fa-bitbucket"></i> Code </a>
+<a href="https://bitbucket.org/evertbosdriesz/cgc-multi-omics/src/master/"><i class="fab fa-bitbucket"></i> Code </a> -->
 
 **E. Bosdriesz**, D. Molenaar, B. Teusink, and F.J. Bruggeman,
 ‘How Fast-Growing Bacteria Robustly Tune Their Ribosome Concentration to Approximate Growth-Rate Maximization.’,
@@ -36,6 +42,9 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:<br>
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
+## Preprints
+
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.
 
 ## Peer-reviewed articles
 
