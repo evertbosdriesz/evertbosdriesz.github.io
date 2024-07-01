@@ -46,6 +46,8 @@ author_profile: false
     </div>
 </div>
 
+---
+
 <div style="overflow: hidden;">
     <img src='/images/tommie.jpeg' alt="Jannes Roelink" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
