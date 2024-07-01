@@ -1,13 +1,13 @@
 ---
 title: "Lab members"
 permalink: /people/
-# author_profile: true
+author_profile: false
 ---
 
 ## PhD students
 
 <div style="overflow: hidden;">
-    <img src="_images/bio-photo.jpg" alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src="/_images/bio-photo.jpg" alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
         <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -17,7 +17,7 @@ permalink: /people/
 ---
 
 <div style="overflow: hidden;">
-    <img src="path/to/image2.jpg" alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src="'/images/500x300.png" alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -27,19 +27,33 @@ permalink: /people/
 ---
 
 <div style="overflow: hidden;">
-    <img src="path/to/image3.jpg" alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src="'/images/500x300.png" alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
     </div>
 </div>
 
----
+
 
 ## MSc students
 
-* Robert Ioiart  (co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) 
-* Jannes Roelink (co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/))
+<div style="overflow: hidden;">
+    <img src="path/to/image3.jpg" alt="Robert Ioiart" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <div>
+        <h3 style="margin-top:0;">Robert Ioiart</h3>
+       <p>co-supervised with <a href="https://jmtomczak.github.io">Jakub M. Tomczak</a> .</p>
+    </div>
+</div>
+
+<div style="overflow: hidden;">
+    <img src="path/to/image3.jpg" alt="Jannes Roelink" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <div>
+        <h3 style="margin-top:0;">Jannes Roelink</h3>
+       <p>co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a> .</p>
+    </div>
+</div>
+
 
 ## Alumni
 
