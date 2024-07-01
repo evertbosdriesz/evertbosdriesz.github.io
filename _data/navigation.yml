@@ -1,11 +1,14 @@
 # main links links
 main:
+  - title: "People"
+    url: /people/    
+  
+  # - title: "Test"
+  #   url: /archive-layout-with-content/    
+
   - title: "Publications"
     url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
+ 
   - title: "Teaching"
     url: /teaching/    
     
@@ -18,5 +21,4 @@ main:
   - title: "CV"
     url: https://evertbosdriesz.github.io/markdown-cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+

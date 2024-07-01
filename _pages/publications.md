@@ -7,7 +7,7 @@ author_profile: true
 
  A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). 
  
-\# indicates equal contribution.
+\# indicates equal contribution. Mentees’ names in bold.
 
 ## Key
 
