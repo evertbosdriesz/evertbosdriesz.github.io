@@ -6,9 +6,11 @@ permalink: /people/
 
 ## PhD students
 
-| Tim Stohn | (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) |
-| Paolo Odello | (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))|
-| Nadine van der Brug |  (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) |
+[alt text](image_url)
+
+* Tim Stohn (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) 
+* Paolo Odello (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
+* Nadine van der Brug (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
 
 ## MSc students
 
