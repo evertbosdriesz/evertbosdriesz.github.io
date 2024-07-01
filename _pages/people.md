@@ -10,7 +10,7 @@ author_profile: false
     <img src='/images/tommie.jpeg' style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
-        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+        <p>Computational methods to analyze single cell protein quantification data. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
     </div>
 </div>
 
@@ -20,7 +20,7 @@ author_profile: false
     <img src='/images/tommie.jpeg' alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
-       <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+       <p>Dissecting the mechanisms of Multiple Low Dose treatment efficacy. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
     </div>
 </div>
 
@@ -30,7 +30,7 @@ author_profile: false
     <img src='/images/tommie.jpeg' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
-       <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+       <p>Cell state dependent cancer drug response. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
     </div>
 </div>
 
@@ -42,7 +42,7 @@ author_profile: false
     <img src='/images/tommie.jpeg' alt="Robert Ioiart" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Robert Ioiart</h3>
-       <p>co-supervised with <a href="https://jmtomczak.github.io">Jakub M. Tomczak</a> .</p>
+       <p>Generative models for spatial transcriptomics. Co-supervised with <a href="https://jmtomczak.github.io">Jakub M. Tomczak</a> .</p>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ author_profile: false
     <img src='/images/tommie.jpeg' alt="Jannes Roelink" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Jannes Roelink</h3>
-       <p>co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a> .</p>
+       <p>Tumor microenvironment analysis using Imagine Mass Cytometry. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a> .</p>
     </div>
 </div>
 
