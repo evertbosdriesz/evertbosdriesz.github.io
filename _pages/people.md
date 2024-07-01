@@ -6,9 +6,13 @@ permalink: /people/
 
 ## PhD students
 
-[alt text](image_url)
+<img src="/_image/bio-photo.jpg" alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+Short description about Member 1. This text can include their role, research interests, and any other relevant information.
 
-* Tim Stohn (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) 
+
+
+
+ * Tim Stohn (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) 
 * Paolo Odello (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
 * Nadine van der Brug (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
 
