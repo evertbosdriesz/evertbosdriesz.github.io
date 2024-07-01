@@ -7,7 +7,7 @@ author_profile: false
 ## PhD students
 
 <div style="overflow: hidden;">
-    <img src='/images/500x300.png' alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpg' style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
         <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -17,7 +17,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/500x300.png' alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpg' alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -27,7 +27,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/500x300.png' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpg' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
