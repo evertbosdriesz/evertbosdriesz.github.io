@@ -6,15 +6,35 @@ permalink: /people/
 
 ## PhD students
 
-<img src="/_image/bio-photo.jpg" alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
-Short description about Member 1. This text can include their role, research interests, and any other relevant information.
+<div style="overflow: hidden;">
+    <img src="_images/bio-photo.jpg" alt="Tim Stohn" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <div>
+        <h3 style="margin-top:0;">Tim Stohn</h3>
+        <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+    </div>
+</div>
 
+---
 
+<div style="overflow: hidden;">
+    <img src="path/to/image2.jpg" alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <div>
+        <h3 style="margin-top:0;">Paolo Odello</h3>
+       <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+    </div>
+</div>
 
+---
 
- * Tim Stohn (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/)) 
-* Paolo Odello (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
-* Nadine van der Brug (Joined with Lodewyk Wessels [Lodewyk Wessels](https://www.nki.nl/research/research-groups/lodewyk-wessels/))
+<div style="overflow: hidden;">
+    <img src="path/to/image3.jpg" alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <div>
+        <h3 style="margin-top:0;">Nadine van de Brug</h3>
+       <p>Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
+    </div>
+</div>
+
+---
 
 ## MSc students
 
