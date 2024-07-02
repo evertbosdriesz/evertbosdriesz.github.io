@@ -49,7 +49,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Jannes Roelink" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpeg' alt="Jannes Roelink" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Jannes Roelink</h3>
        <p>Tumor microenvironment analysis using Imagine Mass Cytometry. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a> .</p>
