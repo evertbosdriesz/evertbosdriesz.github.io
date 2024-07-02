@@ -39,7 +39,7 @@ author_profile: false
 ## MSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Robert Ioiart" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Robert.png' alt="Robert Ioiart" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Robert Ioiart</h3>
        <p>Generative models for spatial transcriptomics. Co-supervised with <a href="https://jmtomczak.github.io">Jakub M. Tomczak</a> .</p>
