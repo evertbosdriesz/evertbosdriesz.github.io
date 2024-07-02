@@ -17,7 +17,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Paolo Odello" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Paolo.jpeg' alt="Paolo Odello" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
        <p>Dissecting the mechanisms of Multiple Low Dose treatment efficacy. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
