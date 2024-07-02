@@ -7,7 +7,7 @@ author_profile: false
 ## PhD students
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Tim.jpg' style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
         <p>Computational methods to analyze single cell protein quantification data. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -34,8 +34,6 @@ author_profile: false
     </div>
 </div>
 
-
-
 ## MSc students
 
 <div style="overflow: hidden;">
@@ -49,7 +47,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Jannes Roelink" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Jannes.jpg' alt="Jannes Roelink" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Jannes Roelink</h3>
        <p>Tumor microenvironment analysis using Imagine Mass Cytometry. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a> .</p>
