@@ -27,7 +27,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/Nadine.jpg' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
        <p>Cell state dependent cancer drug response. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
