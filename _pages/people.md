@@ -7,7 +7,7 @@ author_profile: false
 ## PhD students
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpeg' style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
         <p>Computational methods to analyze single cell protein quantification data. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -17,7 +17,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Paolo Odello" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpeg' alt="Paolo Odello" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
        <p>Dissecting the mechanisms of Multiple Low Dose treatment efficacy. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -27,7 +27,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/Nadine.jpg' alt="Nadine van de Brug" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/Nadine.jpg' alt="Nadine van de Brug" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
        <p>Cell state dependent cancer drug response. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a> .</p>
@@ -39,7 +39,7 @@ author_profile: false
 ## MSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Robert Ioiart" style="width:100px; height:100px; border-radius:50%; float:left; margin-right:20px;">
+    <img src='/images/tommie.jpeg' alt="Robert Ioiart" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Robert Ioiart</h3>
        <p>Generative models for spatial transcriptomics. Co-supervised with <a href="https://jmtomczak.github.io">Jakub M. Tomczak</a> .</p>
