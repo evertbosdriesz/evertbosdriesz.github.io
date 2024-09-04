@@ -69,7 +69,7 @@ author_profile: false
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
-| Robert Ioiart     | 2022-2023 | MSc student   |Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
+| Robert Ioiart     | 2023-2024 | MSc student   |Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Lisa de Groot     | 2022-2023 | MSc student   | Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Yuzhao Liu        | 2023   | MSc student   |Co-supervised with [Rubina Baglio](https://www.amsterdamumc.org/en/research/researchers/rubina-baglio.htm) |
 | Egor Galkin       | 2022-2023 | MSc student | |
