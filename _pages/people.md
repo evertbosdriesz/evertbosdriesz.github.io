@@ -47,7 +47,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/Aida.png' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Aida.jpg' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Aida Cañete Navarro</h3>
        <p>Intracellular signaling analysis in sepsis using CyToF. Co-supervised with <a href="https://researchinformation.amsterdamumc.org/en/persons/sebastiaan-joosten-2">Sebastiaan Joosten</a>.</p>
@@ -57,7 +57,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.png' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/tommie.jpeg' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Anastasia Theodosiadou</h3>
        <p>Benchmarking demultiplexing algorithms for multi-modal single cell data.</p>
