@@ -57,7 +57,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/tommie.jpeg' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/anastasia.jpg' alt="Anastasia Theodosiadou" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Anastasia Theodosiadou</h3>
        <p>Benchmarking demultiplexing algorithms for multi-modal single cell data.</p>
