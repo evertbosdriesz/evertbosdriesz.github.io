@@ -37,16 +37,6 @@ author_profile: false
 ## MSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/Jannes.jpg' alt="Jannes Roelink" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
-    <div>
-        <h3 style="margin-top:0;">Jannes Roelink</h3>
-       <p>Tumor microenvironment analysis using Imagine Mass Cytometry. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/">Febe van Maldegem</a>.</p>
-    </div>
-</div>
-
----
-
-<div style="overflow: hidden;">
     <img src='/images/Aida.jpg' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Aida Cañete Navarro</h3>
@@ -69,6 +59,7 @@ author_profile: false
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
+| Jannes Roelink    | 2024 | MSc student |  Co-supervised with [Febe van Maldegem]("https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/") |
 | Robert Ioiart     | 2023-2024 | MSc student   |Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Lisa de Groot     | 2022-2023 | MSc student   | Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Yuzhao Liu        | 2023   | MSc student   |Co-supervised with [Rubina Baglio](https://www.amsterdamumc.org/en/research/researchers/rubina-baglio.htm) |
