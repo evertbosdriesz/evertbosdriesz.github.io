@@ -59,7 +59,7 @@ author_profile: false
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
-| Jannes Roelink    | 2024 | MSc student |  Co-supervised with [Febe van Maldegem]("https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem/") |
+| Jannes Roelink    | 2024 | MSc student |  Co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem) |
 | Robert Ioiart     | 2023-2024 | MSc student   |Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Lisa de Groot     | 2022-2023 | MSc student   | Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Yuzhao Liu        | 2023   | MSc student   |Co-supervised with [Rubina Baglio](https://www.amsterdamumc.org/en/research/researchers/rubina-baglio.htm) |
