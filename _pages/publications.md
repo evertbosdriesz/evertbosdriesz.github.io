@@ -20,7 +20,7 @@ N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<s
 <i class="fab fa-github"></i> <a href="https://github.com/ibivu/scmra"> Code </a> -
 <a href="https://github.com/tstohn/scmra_analysis"> Notebooks </a>
 
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](https://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
 *Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
