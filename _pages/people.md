@@ -37,28 +37,21 @@ author_profile: false
 ## MSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/Aida.jpg' alt="Aida Cañete Navarro" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
-        <h3 style="margin-top:0;">Aida Cañete Navarro</h3>
-       <p>Intracellular signaling analysis in sepsis using CyToF. Co-supervised with <a href="https://researchinformation.amsterdamumc.org/en/persons/sebastiaan-joosten-2">Sebastiaan Joosten</a>.</p>
+        <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
+       <p>Spatial analysis on the lung microenvironment . Co-supervised with <a href="https://pure.amsterdamumc.nl/en/persons/febe-van-maldegem">Febe van Maldigem</a>.</p>
     </div>
 </div>
 
----
-
-<div style="overflow: hidden;">
-    <img src='/images/anastasia.jpg' alt="Anastasia Theodosiadou" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
-    <div>
-        <h3 style="margin-top:0;">Anastasia Theodosiadou</h3>
-       <p>Benchmarking demultiplexing algorithms for multi-modal single cell data.</p>
-    </div>
-</div>
 
 
 ## Alumni
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
+| Aida Cañete Navarro | 2024 - 2025 | MSc student| Co-supervised with [Sebastiaan Joosten](https://researchinformation.amsterdamumc.org/en/persons/sebastiaan-joosten-2) |
+| Anastasia Theodosiadou | 2024 | MSc student |                                                                  |
 | Jannes Roelink    | 2024 | MSc student |  Co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem) |
 | Robert Ioiart     | 2023-2024 | MSc student   |Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Lisa de Groot     | 2022-2023 | MSc student   | Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
