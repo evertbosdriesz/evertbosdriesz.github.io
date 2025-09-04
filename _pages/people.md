@@ -40,7 +40,7 @@ author_profile: false
     <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
-       <p>Spatial analysis on the lung microenvironment . Co-supervised with <a href="https://pure.amsterdamumc.nl/en/persons/febe-van-maldegem">Febe van Maldigem</a>.</p>
+       <p>Spatial analysis on the lung microenvironment . Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem">Febe van Maldegem</a>.</p>
     </div>
 </div>
 
