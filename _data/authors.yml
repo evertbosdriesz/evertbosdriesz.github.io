@@ -2,18 +2,6 @@
 
 Evert Bosdriesz:
   name        : "Evert Bosdriesz"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  bio         : "Assistant professor in Bioinformatics at the VU Amsterdam."
+  avatar      : "Evert-2024.jpeg"
   google.scholar: "https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=nl"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
