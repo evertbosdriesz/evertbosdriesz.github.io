@@ -6,8 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "CV"
     url: https://evertbosdriesz.github.io/markdown-cv/
