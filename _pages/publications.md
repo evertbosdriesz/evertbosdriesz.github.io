@@ -11,10 +11,11 @@ author_profile: true
 
 ## Key
 
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. 2025. "Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring." bioRxiv. doi:[10.1101/2025.01.27.635060](https://doi.org/10.1101/2025.01.27.635060), 2025.<br>
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](doi://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
 *Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/kramer2025.pdf"> PDF </a> -
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
+
 
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, "Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data."  *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 *Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
@@ -51,14 +52,13 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/bosdriesz2015ribosome.pdf"> PDF </a> -
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
-## Preprints
 
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. 2025. "Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring." bioRxiv. https://doi.org/10.1101/2025.01.27.635060.
+## Peer-reviewed articles
+
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](doi://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/kramer2025.pdf"> PDF </a> -
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
 
-
-## Peer-reviewed articles
 
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, "Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data."  *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/stohn2025.pdf"> PDF </a>
