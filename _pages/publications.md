@@ -118,6 +118,7 @@ M.T. Wortel<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, B. Teusink, and F.J. Brug
 J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink and F.J. Bruggeman,
 'How Biochemical Constraints of Cellular Growth Shape Evolutionary Adaptations in Metabolism.',
 *Genetics*, *194*:505–512. doi:[10.1534/genetics.113.150631](https://doi.org/10.1534/genetics.113.150631), 2013.
+<i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/berkhout2013.pdf"> PDF </a>
 
 <br>
 
