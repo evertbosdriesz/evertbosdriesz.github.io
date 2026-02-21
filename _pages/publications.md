@@ -11,7 +11,7 @@ author_profile: true
 
 ## Key
 
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](doi://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
 *Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/kramer2025.pdf"> PDF </a> -
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
