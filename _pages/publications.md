@@ -55,7 +55,7 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 
 ## Peer-reviewed articles
 
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](doi://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/kramer2025.pdf"> PDF </a> -
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
 
@@ -67,7 +67,7 @@ N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<s
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/bosdriesz2022.pdf"> PDF </a>
 
 
-J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11* (1): 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+J. Fernandes Neto, E. Nadal<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11* (1): 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2020.
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/fernandesneto2020.pdf"> PDF </a>
 
 T. Sustic, **E. Bosdriesz**, S. van Wageningen, L.F.A. Wessels and R. Bernards, 'RUNX2/CBFB modulates the response to MEK inhibitors through activation of receptor tyrosine kinases in *KRAS*-mutant colorectal cancer', *Translational Oncology*, *13*(2):201-211.

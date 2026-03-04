@@ -9,7 +9,7 @@ This is a compulsory course in the Bioinformatics track of the [Bioinformatics a
 
 ## Introduction to Bioinformatics (X_401036)
 
-This is a compulsory course for 2th year BSc students [Medische Natuurwetenschappen](https://vuweb.vu.nl/nl/onderwijs/bachelor/medische-natuurwetenschappen). More info in the [Study guide](https://studiegids.vu.nl/nl/2023-2024/courses/X_401036).
+This is a compulsory course for 2nd year BSc students [Medische Natuurwetenschappen](https://vuweb.vu.nl/nl/onderwijs/bachelor/medische-natuurwetenschappen). More info in the [Study guide](https://studiegids.vu.nl/nl/2023-2024/courses/X_401036).
 
 ## Principles of Bioinformatics (X_401094)
 

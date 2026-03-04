@@ -40,7 +40,7 @@ author_profile: false
     <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
-       <p>Spatial analysis on the lung microenvironment . Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem">Febe van Maldegem</a>.</p>
+       <p>Spatial analysis on the lung microenvironment. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem">Febe van Maldegem</a>.</p>
     </div>
 </div>
 
@@ -66,6 +66,6 @@ author_profile: false
 | Lisa de Groot     | 2022-2023 | MSc student   | Co-supervised with [Jakub M. Tomczak](https://jmtomczak.github.io) |
 | Yuzhao Liu        | 2023   | MSc student   |Co-supervised with [Rubina Baglio](https://www.amsterdamumc.org/en/research/researchers/rubina-baglio.htm) |
 | Egor Galkin       | 2022-2023 | MSc student | |
-| Merlin van Loenen | 2022   | MSc student   | Co-supervised with [Juan J. Garcia Vallejo](ttps://immunologyamsterdam.org/2020/08/10/juan-j-garcia-vallejo) and [Yongsoo Kim](https://researchinformation.amsterdamumc.org/en/persons/yongsoo-kim)|
+| Merlin van Loenen | 2022   | MSc student   | Co-supervised with [Juan J. Garcia Vallejo](https://immunologyamsterdam.org/2020/08/10/juan-j-garcia-vallejo) and [Yongsoo Kim](https://researchinformation.amsterdamumc.org/en/persons/yongsoo-kim)|
 | Nathalie A.C. Janssen  | 2020   | MSc student                          |
-| Iwan Vaandrager | 2020 | MSc student
+| Iwan Vaandrager | 2020 | MSc student |
