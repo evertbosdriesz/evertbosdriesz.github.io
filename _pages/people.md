@@ -49,7 +49,7 @@ author_profile: false
 <div style="overflow: hidden;">
     <img src='/images/Margherita.png' alt="Margherita Autelitano" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
-        <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
+        <h3 style="margin-top:0;">Margherita Autelitano</h3>
        <p>Disease networks. Co-supervised with <a href="https://www.vubioinformatics.com/user/olgatsoy/">Olga Tsoy</a>.</p>
     </div>
 </div>
