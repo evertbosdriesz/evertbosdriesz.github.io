@@ -7,7 +7,7 @@ author_profile: false
 ## PhD students
 
 <div style="overflow: hidden;">
-    <img src='/images/Tim.jpg' style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Tim.jpg' style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Tim Stohn</h3>
         <p>Computational methods to analyze single cell protein quantification data. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a>.</p>
@@ -17,7 +17,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/Paolo.jpeg' alt="Paolo Odello" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Paolo.jpeg' alt="Paolo Odello" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Paolo Odello</h3>
        <p>Dissecting the mechanisms of Multiple Low Dose treatment efficacy. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a>.</p>
@@ -27,7 +27,7 @@ author_profile: false
 ---
 
 <div style="overflow: hidden;">
-    <img src='/images/Nadine.jpg' alt="Nadine van de Brug" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Nadine.jpg' alt="Nadine van de Brug" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Nadine van de Brug</h3>
        <p>Cell state dependent cancer drug response. Joined with <a href="https://www.nki.nl/research/research-groups/lodewyk-wessels/">Lodewyk Wessels</a>.</p>
@@ -37,7 +37,7 @@ author_profile: false
 ## MSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
        <p>Spatial analysis on the lung microenvironment . Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem">Febe van Maldegem</a>.</p>
@@ -47,7 +47,7 @@ author_profile: false
 ## BSc students
 
 <div style="overflow: hidden;">
-    <img src='/images/Margherita.png' alt="Margherita Autelitano" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
+    <img src='/images/Margherita.png' alt="Margherita Autelitano" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
     <div>
         <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
        <p>Disease networks. Co-supervised with <a href="https://www.vubioinformatics.com/user/olgatsoy/">Olga Tsoy</a>.</p>
