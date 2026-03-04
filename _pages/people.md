@@ -44,6 +44,8 @@ author_profile: false
     </div>
 </div>
 
+## BSc students
+
 <div style="overflow: hidden;">
     <img src='/images/Margherita.png' alt="Margherita Autelitano" style="width:150px; height:150px; border-radius:50%; float:left; margin-right:30px;">
     <div>
