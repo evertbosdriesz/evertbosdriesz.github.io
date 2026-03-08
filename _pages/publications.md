@@ -53,6 +53,10 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
 
+**T. Stohn**, N.D. van de Brug, A. Theodosiadou, B. Thijssen, K. Jastrzebski, L.F.A. Wessels, and **E. Bosdriesz**, "ESGI: Efficient Splitting of Generic Indices in Single-Cell Sequencing Data." bioRxiv. doi:[10.64898/2026.03.04.709594](https://doi.org/10.64898/2026.03.04.709594), 2026.<br>
+*Preprocessing framework for single-cell sequencing experiments with flexible barcode designs, supporting variable-length barcodes and complex indexing schemes unsupported by conventional pipelines.*
+<i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/stohn2026.pdf"> PDF </a>
+
 ## Peer-reviewed articles
 
 N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>.  “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” Molecular & Cellular Proteomics 0 (101529): 101529. doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529),  2026.<br>
