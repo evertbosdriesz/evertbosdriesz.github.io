@@ -44,14 +44,15 @@ A. Ressa<sup>#</sup>, **E. Bosdriesz**<sup>#</sup>, J. de Ligt, S. Mainardi, G. 
 doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<br>
 *Transcriptomic, proteomic and phosphoproteomic, time-course analysis of cancer cells in response to targeted inhibitors*:<br>
 <a href="https://bitbucket.org/evertbosdriesz/cgc-multi-omics/src/master/"><i class="fab fa-bitbucket"></i> Code </a> -->
-
+<!-- 
 **E. Bosdriesz**, D. Molenaar, B. Teusink, and F.J. Bruggeman,
 'How Fast-Growing Bacteria Robustly Tune Their Ribosome Concentration to Approximate Growth-Rate Maximization.',
 *FEBS Journal*, *282*(10):2029-2044. doi:[10.1111/febs.13258](https://doi.org/10.1111/febs.13258), 2015.<br>
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:<br>
 <i class="fas fa-file-pdf"></i> <a href="/assets/pdfs/bosdriesz2015ribosome.pdf"> PDF </a> -
-<a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
+<a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
 
+## Preprints
 
 **T. Stohn**, N.D. van de Brug, A. Theodosiadou, B. Thijssen, K. Jastrzebski, L.F.A. Wessels, and **E. Bosdriesz**, "ESGI: Efficient Splitting of Generic Indices in Single-Cell Sequencing Data." bioRxiv. doi:[10.64898/2026.03.04.709594](https://doi.org/10.64898/2026.03.04.709594), 2026.<br>
 *Preprocessing framework for single-cell sequencing experiments with flexible barcode designs, supporting variable-length barcodes and complex indexing schemes unsupported by conventional pipelines.*
