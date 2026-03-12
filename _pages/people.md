@@ -34,15 +34,6 @@ author_profile: false
     </div>
 </div>
 
-## MSc students
-
-<div style="overflow: hidden;">
-    <img src='/images/Medis.jpg' alt="Medis Çöllü Alçınkaya" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
-    <div>
-        <h3 style="margin-top:0;">Medis Çöllü Alçınkaya</h3>
-       <p>Spatial analysis on the lung microenvironment. Co-supervised with <a href="https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem">Febe van Maldegem</a>.</p>
-    </div>
-</div>
 
 ## BSc students
 
@@ -59,6 +50,7 @@ author_profile: false
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
+| Medis Çöllü Alçınkaya | 2025 | MSc student | Co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem) |
 | Aida Cañete Navarro | 2024 - 2025 | MSc student| Co-supervised with [Sebastiaan Joosten](https://researchinformation.amsterdamumc.org/en/persons/sebastiaan-joosten-2) |
 | Anastasia Theodosiadou | 2024 | MSc student |                                                                  |
 | Jannes Roelink    | 2024 | MSc student |  Co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem) |
