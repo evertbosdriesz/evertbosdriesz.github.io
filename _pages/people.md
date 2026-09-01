@@ -34,6 +34,16 @@ author_profile: false
     </div>
 </div>
 
+
+<div style="overflow: hidden;">
+    <img src='/images/Isis.jpeg' alt="Isis van Loenen" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
+    <div>
+        <h3 style="margin-top:0;">Nadine van de Brug</h3>
+       <p>Integration of GWAS and spatial transcriptomic data in neurodegenerative deseases. Joined with <a href="https://cncr.nl/people/danielle_posthuma/">Danielle Posthuma</a>.</p>
+    </div>
+</div>
+
+
 <!-- 
 ## BSc students
 
