@@ -34,7 +34,7 @@ author_profile: false
     </div>
 </div>
 
-
+<!-- 
 ## BSc students
 
 <div style="overflow: hidden;">
@@ -43,13 +43,14 @@ author_profile: false
         <h3 style="margin-top:0;">Margherita Autelitano</h3>
        <p>Disease networks. Co-supervised with <a href="https://www.vubioinformatics.com/user/olgatsoy/">Olga Tsoy</a>.</p>
     </div>
-</div>
+</div> -->
 
 
 ## Alumni
 
 | Name              | Years   | Position in Lab |                                           |
 | --------          | ------  | --------------  | ------------------------------------------------------------ |
+| Margherita Autelitano | 2026 | BSc student | Co-supervised with [Olga Tsoy](https://www.vubioinformatics.com/user/olgatsoy/) |
 | Medis Çöllü Alçınkaya | 2025 | MSc student | Co-supervised with [Febe van Maldegem](https://immunologyamsterdam.org/2021/12/02/febe-van-maldegem) |
 | Aida Cañete Navarro | 2024 - 2025 | MSc student| Co-supervised with [Sebastiaan Joosten](https://researchinformation.amsterdamumc.org/en/persons/sebastiaan-joosten-2) |
 | Anastasia Theodosiadou | 2024 | MSc student |                                                                  |
