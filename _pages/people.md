@@ -34,6 +34,7 @@ author_profile: false
     </div>
 </div>
 
+---
 
 <div style="overflow: hidden;">
     <img src='/images/Isis.jpeg' alt="Isis van Loenen" style="width:150px; height:150px; object-fit:cover; border-radius:50%; float:left; margin-right:30px;">
